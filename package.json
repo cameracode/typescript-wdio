@@ -1,0 +1,19 @@
+{
+  "name": "typescript-wdio",
+  "version": "0.0.1",
+  "description": "A journey into typescript and webdriverio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+      "name": "Eben Yep",
+      "email": "ebenofthecamera@gmail.com",
+      "url": "https://github.com/cameracode/typescript-wdio"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+       
+  }
+}
