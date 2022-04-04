@@ -4,8 +4,8 @@
     "description": "A journey into typescript and webdriverio",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "wdio": "wdio run test/wdio.conf.ts"
+        "test": "npx wdio run test/wdio.conf.ts",
+        "test-wdio": "echo \"Error: no test specified\" && exit 1"
     },
     "author": {
         "name": "Eben Yep",
